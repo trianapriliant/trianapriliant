@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @trianapriliant  
 - 👀 I’m interested in development, design, and UI/UX.  
 - 🌱 I’m currently learning three.js and improving my skills in graphic design.  
-- 💞️ I’m looking to collaborate on creative and innovative web projects, especially those involving 3D elements.  
 - 📫 How to reach me: [trianaprilianto3@gmail.com] or via social media @trianapriliant.   
 - ⚡ Fun fact: I love combining tech with art, and my favorite hobby is experimenting with new design tools.  
