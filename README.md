@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @trianapriliant  
-- 👀 I’m interested in development, design, and UI/UX.  
-- 🌱 I’m currently learning three.js and improving my skills in graphic design.  
-- 📫 How to reach me: [trianaprilianto3@gmail.com] or via social media @trianapriliant.   
-- ⚡ Fun fact: I love combining tech with art, and my favorite hobby is experimenting with new design tools.  
+i got your mind
