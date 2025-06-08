@@ -1,5 +1,4 @@
 <h3 align="left">Hi, my name is Trian, I'm a noobie designer and developer who just love to learn something new.</h3>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
