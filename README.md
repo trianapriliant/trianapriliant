@@ -1,11 +1,4 @@
 <h3 align="left">Hi, my name is Trian, I'm a noobie designer and developer who just love to learn something new.</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=trianapriliant&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight-light&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
 ###
 
 <div align="left">
